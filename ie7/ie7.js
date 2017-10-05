@@ -13,11 +13,10 @@
 		el.innerHTML = '<span style="font-family: \'icomoon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
-		'm-icon-bars': '&#xf0c9;',
-		'm-icon-navicon': '&#xf0c9;',
-		'm-icon-reorder': '&#xf0c9;',
+		'm-icon-Asset-1': '&#xe903;',
+		'm-icon-menu': '&#xf0c9;',
 		'm-icon-search': '&#xf003;',
-		'm-icon-Asset-5': '&#xf0c4;',
+		'm-icon-fb-logo-02': '&#xf0c4;',
 		'm-icon-shopping-cart': '&#xe902;',
 		'm-icon-heart': '&#xf004;',
 		'm-icon-fb-logo-03': '&#xf090;',

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?uw1wmm');
-  src:  url('fonts/icomoon.eot?uw1wmm#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?uw1wmm') format('truetype'),
-    url('fonts/icomoon.woff?uw1wmm') format('woff'),
-    url('fonts/icomoon.svg?uw1wmm#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?uasxtm');
+  src:  url('fonts/icomoon.eot?uasxtm#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?uasxtm') format('truetype'),
+    url('fonts/icomoon.woff?uasxtm') format('woff'),
+    url('fonts/icomoon.svg?uasxtm#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,19 +24,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.m-icon-bars:before {
-  content: "\f0c9";
+.m-icon-Asset-1:before {
+  content: "\e903";
 }
-.m-icon-navicon:before {
-  content: "\f0c9";
-}
-.m-icon-reorder:before {
+.m-icon-menu:before {
   content: "\f0c9";
 }
 .m-icon-search:before {
   content: "\f003";
 }
-.m-icon-Asset-5:before {
+.m-icon-fb-logo-02:before {
   content: "\f0c4";
 }
 .m-icon-shopping-cart:before {
