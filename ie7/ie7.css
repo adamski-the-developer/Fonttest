@@ -1,0 +1,85 @@
+.m-icon-bars {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0c9;');
+}
+.m-icon-navicon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0c9;');
+}
+.m-icon-reorder {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0c9;');
+}
+.m-icon-search {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf003;');
+}
+.m-icon-Asset-5 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0c4;');
+}
+.m-icon-shopping-cart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe902;');
+}
+.m-icon-heart {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf004;');
+}
+.m-icon-fb-logo-03 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf090;');
+}
+.m-icon-twitter {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf099;');
+}
+.m-icon-facebook {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf09a;');
+}
+.m-icon-facebook-f {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf09a;');
+}
+.m-icon-angle-left {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf104;');
+}
+.m-icon-angle-right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf105;');
+}
+.m-icon-angle-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf106;');
+}
+.m-icon-angle-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf107;');
+}
+.m-icon-google {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1a0;');
+}
+.m-icon-pinterest-p {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf231;');
+}
+.m-icon-vimeo {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf27d;');
+}
+.m-icon-angle-double-up {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf102;');
+}
+.m-icon-angle-double-down {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf103;');
+}
+.m-icon-play-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf220;');
+}
+.m-icon-pause-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf221;');
+}
+.m-icon-stop-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf22a;');
+}
+.m-icon-markunread {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf159;');
+}
+.m-icon-close {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf900;');
+}
+.m-icon-skip_next {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf224;');
+}
+.m-icon-unfold_less {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf5d6;');
+}
+.m-icon-unfold_more {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf5d7;');
+}
+
